@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* ELEMENTOS DA INTERFACE */
+
 
 body {
     background-color: #15142b;
@@ -73,7 +73,6 @@ a:hover {
     border-bottom: 1px solid #372991;
 }
 
-/* TABELAS E LISTAS */
 
 table {
     min-width: 400px;
